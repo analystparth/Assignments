@@ -1,7 +1,6 @@
 package language.basics;
 
-public class Assignment1 {
-
+public class Assignment1Datatypes {
 	public static void main(String[] args) {
 		//Temperature of a city in degrees Celsius: 25.5
 		float celsius = 25.5f;
@@ -46,7 +45,7 @@ public class Assignment1 {
 		System.out.print("Current year: " +currentyear);
 		System.out.println();
 		//11.Number of followers on a social media platform: 1,000,000
-		int followers = 1000000;
+		String followers = "10,00,000";
 		System.out.println("Number of followers on a social media platform: " +followers);
 		//12.Rating of a movie: 7.5
 		float rating = 7.5f;
@@ -78,3 +77,4 @@ public class Assignment1 {
 	}
 
 }
+
