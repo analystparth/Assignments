@@ -4,7 +4,7 @@ public class Assignment2Array {
 
 	public static void main(String[] args) {
 		String [][][] student_marks = {
-				//semecter1
+				//semester1
 				{
 				{ "Mathematics1","Pass(78)"},
 				{"Physics","Pass(85)"},
